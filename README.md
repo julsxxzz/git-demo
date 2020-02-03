@@ -4,8 +4,4 @@ This is the first file in this repo.
 
 ## Ipsum Below
 
-IPSUM
-
-SOME MORE IPSUM
-
-ANOTHER
+1. index.html
